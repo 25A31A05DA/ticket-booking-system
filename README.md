@@ -26,8 +26,7 @@ script.js         → Logic (login + booking + seat number)
 
 ## Live Demo
 
-Hosted Link: Add your GitHub Pages link here
-Repository: Add your repo link here
+GIT HUB: https://25a31a05da.github.io/ticket-booking-system/
 
 ## Tech Stack
 
